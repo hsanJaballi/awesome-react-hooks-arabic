@@ -1,8 +1,8 @@
 <div dir='rtl'>
 
-# awesome-react-hooks `بالعربية`
+# awesome-react-hooks `بالعربية` 
 
-هذي ال`repository` تهدف لكي تكون مرجع يحتوي `hooks` خاصة بمكتبة `React` يمكن أن تربحك الكثير.
+هذه ال`repository` تهدف لكي تكون مرجع يحتوي `hooks` خاصة بمكتبة `React` يمكن أن تربحك الكثير.
 
 > إذا كنت تريد المزيد من المعلومات عن ال`Hooks`، فلا يوجد مكان أفضل من [التوثيق الرسمي للمكتبة](https://reactjs.org/docs/hooks-intro.html)
 
